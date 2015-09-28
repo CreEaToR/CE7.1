@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Statement{
+public clas	ZZ	ZZX Statement{
 
 public static void main(String args[]){
 
